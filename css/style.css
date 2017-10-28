@@ -211,13 +211,12 @@ padding: 0;
 }
 
 .content-wrapper {
-    border-top: 1px solid black;
-    border-top: 1px solid black;
     border-bottom: 1px solid #c0c0c0;
     width: 80%;
     margin: 0 auto;
     height: 280px;
     border-top: 1px solid #c0c0c0;
+    margin-top: 35px;
 }
 
 .common {
@@ -378,6 +377,7 @@ padding: 0;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: bold;
+    margin: 0 10px;
 }
 
 .footer-menubar ul li a:hover {}
