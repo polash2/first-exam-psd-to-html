@@ -95,6 +95,8 @@ padding: 0;
     margin: 0 auto;
     height: 378px;
     background-image: url(../img/slide_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .left-side {
@@ -222,11 +224,12 @@ padding: 0;
     float: left;
     width: 30%;
     margin-top: 50px;
+    margin-left: 28px;
 }
 
 .headline {
     font-size: 44px;
-    margin-bottom: 10px solid black;
+    border-bottom: 10px solid black;
     margin-top: -24px;
 }
 
